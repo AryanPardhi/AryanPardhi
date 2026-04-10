@@ -50,10 +50,8 @@
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: https://your-portfolio-link.com
-- 🐦 Twitter: https://twitter.com/YOUR_HANDLE
+- 💼 LinkedIn: https://www.linkedin.com/in/aryan-pardhi-795129185
+- 🌍 Portfolio: https://techepro.vercel.app/
 
 ---
 
@@ -67,4 +65,4 @@
 
 ---
 
-⭐️ From [Aryan Pardhi](https://github.com/YOUR_USERNAME)
+⭐️ From [Aryan Pardhi](https://github.com/AryanPardhi)
